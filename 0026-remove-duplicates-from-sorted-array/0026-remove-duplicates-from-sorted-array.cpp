@@ -9,7 +9,7 @@ public:
             // Check if the element is not already in the map
             if (m.find(nums[i]) == m.end()) {
                 nums[k++] = nums[i]; // Place the unique element in the array
-                m[nums[i]] = 2; // Mark it as seen in the map
+                m[nums[i]] = 1; // Mark it as seen in the map
             }
         }
         
