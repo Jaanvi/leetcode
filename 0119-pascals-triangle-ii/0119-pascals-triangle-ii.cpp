@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> getRow(int rowIndex) 
     {
-        vector<int>prev={1};
+        vector<int>prev={1};//initialize the first row
         for(int i=1;i<=rowIndex;i++)
         {
             vector<int>ans(i+1,1);   
