@@ -2,63 +2,29 @@ class Solution {
 public:
     int maximumLength(string s) 
     {
-        map<string, int> m; // Map to store counts of special substrings
-        int size = s.length();
-        int maxi = 0;
-
-        // Identify special substrings
-        for (int i = 0; i < size; i++) {
-            string current = "";
-            for (int j = i; j < size; j++) {
-                if (s[j] == s[i]) { // Ensure all characters in the substring are the same
-                    current += s[j];
-                    m[current]++; // Increment count for the special substring
+        map<string,int>m;
+        int maxi=0;
+        int size=s.length();
+        for(int i=0;i<size;i++)
+        {
+            string temp="";
+            for(int j=i;j<size;j++)
+            {
+                 if (s[j] == s[i]) { // Ensure the substring is special
+                    temp += s[j];
+                    m[temp]++;
                 } else {
-                    break; // Stop when a different character is encountered
+                    break; // Stop if the substring is no longer special
                 }
-            }
+            }  
         }
-
-        // Find the longest substring appearing at least 3 times
-        for (const auto& [substr, count] : m) {
-            if (count >= 3) {
-                maxi = std::max(maxi, (int)substr.length());
-            }
-        }
-
-        return maxi > 0 ? maxi : -1; // Return -1 if no valid substring is found
+        for(map<string,int>::iterator it=m.begin();it!=m.end();it++)
+        {
+            if(it->second >=3)
+            {
+                maxi = max(maxi,(int)(it->first).length());
+            }    
+        } 
+        return maxi > 0 ? maxi : -1;
     }
 };
-
-
-
-
-
-
-
-// class Solution {
-// public:
-//     int maximumLength(string s) 
-//     {
-//         map<string,int>m;
-//         int maxi=0;
-//         int size=s.length();
-//         vector<string> sstr;
-//         for(int i=0;i<size;i++)
-//         {
-//             for(int j=1;j<size;j++)
-//             {
-//                 sstr.push_back(s.substr(i,j));   
-//             }  
-//         }
-//         for(int i=0;i<sstr.size();i++)
-//         {
-//             m[sstr[i]]++;
-//             if(m[sstr[i]]>=3)
-//             {
-//                 maxi = max(maxi,sstr[i].length());
-//             }    
-//         } 
-//         return maxi > 0 ? maxi : -1;
-//     }
-// };
