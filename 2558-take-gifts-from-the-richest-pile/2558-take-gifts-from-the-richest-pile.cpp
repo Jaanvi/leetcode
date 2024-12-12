@@ -15,7 +15,8 @@ public:
                    maxindex=j;
                }
            }
-           gifts[maxindex] = floor(sqrt(gifts[maxindex])); 
+          // gifts[maxindex] = floor(sqrt(gifts[maxindex]));
+           gifts[maxindex] = static_cast<int>(sqrt(gifts[maxindex]));
        }  
        for(int i=0;i<gifts.size();i++)
        {
