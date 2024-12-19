@@ -4,7 +4,6 @@ public:
     {
         int count=1;
         int maxi=0;
-        int sum=0;
         for(int i=0;i<arr.size()-1;i++)
         {
            maxi=max(maxi,arr[i]);
