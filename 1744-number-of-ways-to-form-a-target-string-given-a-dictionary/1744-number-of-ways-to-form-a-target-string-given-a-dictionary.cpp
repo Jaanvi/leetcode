@@ -1,7 +1,8 @@
 
 class Solution {
 public:
-    int numWays(vector<string>& words, string target) {
+    int numWays(vector<string>& words, string target) 
+    {
         const int MOD = 1e9 + 7;
         int m = words[0].size(); 
         int n = target.size();   
