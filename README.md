@@ -10,6 +10,7 @@ jaanvi-leetcode questions
 | [1025-minimum-cost-for-tickets](https://github.com/Jaanvi/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Jaanvi/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jaanvi/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Jaanvi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Jaanvi/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jaanvi/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jaanvi/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -26,6 +27,7 @@ jaanvi-leetcode questions
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Jaanvi/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jaanvi/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Jaanvi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jaanvi/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jaanvi/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
@@ -45,6 +47,7 @@ jaanvi-leetcode questions
 ## String Matching
 |  |
 | ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Jaanvi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jaanvi/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
