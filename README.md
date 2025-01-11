@@ -7,6 +7,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Jaanvi/leetcode/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/Jaanvi/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jaanvi/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0952-word-subsets](https://github.com/Jaanvi/leetcode/tree/master/0952-word-subsets) |
@@ -69,5 +70,6 @@ jaanvi-leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Jaanvi/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
