@@ -1,19 +1,29 @@
 class Solution {
 public:
-    int minimumLength(string s) {
-        vector<int> charFrequency(26, 0);
-        int totalLength = 0;
-        for (char currentChar : s) {
-            charFrequency[currentChar - 'a']++;
+    int minimumLength(string s)
+    {
+        int size=s.length();
+        map<char,int>m;
+        for(int i=0;i<size;i++)
+        {
+            m[s[i]]++;
         }
-        for (int frequency : charFrequency) {
-            if (frequency == 0) continue;
-            if (frequency % 2 == 0) {
-                totalLength += 2;
-            } else {
-                totalLength += 1;
+        int count=0;
+        for(auto it=m.begin();it!=m.end();it++)
+        {
+            if(it->second<3)
+            {
+               count+=it->second;
+            }
+            else if((it->second)%2==0)
+            {
+                count+=2;
+            }
+            else if((it->second)%2!=0)
+            {
+                count+=1;
             }
         }
-        return totalLength;
+        return count;
     }
 };
