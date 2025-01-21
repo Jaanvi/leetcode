@@ -3,7 +3,8 @@
 
 class Solution {
 public:
-    int firstBadVersion(int n) {
+    int firstBadVersion(int n) 
+    {
         int lower = 1, higher = n;
         
         while (lower < higher) 
