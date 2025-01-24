@@ -136,10 +136,12 @@ jaanvi-leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Jaanvi/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Jaanvi/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
@@ -154,4 +156,12 @@ jaanvi-leetcode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaanvi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
