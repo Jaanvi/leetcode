@@ -164,4 +164,8 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
