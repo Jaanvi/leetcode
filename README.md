@@ -47,6 +47,7 @@ jaanvi-leetcode questions
 | [1502-construct-k-palindrome-strings](https://github.com/Jaanvi/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Jaanvi/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jaanvi/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jaanvi/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Jaanvi/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Jaanvi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jaanvi/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -85,6 +86,7 @@ jaanvi-leetcode questions
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/Jaanvi/leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jaanvi/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jaanvi/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Jaanvi/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Jaanvi/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
@@ -114,6 +116,7 @@ jaanvi-leetcode questions
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
 | [1396-count-servers-that-communicate](https://github.com/Jaanvi/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jaanvi/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jaanvi/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Jaanvi/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
