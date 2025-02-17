@@ -95,6 +95,7 @@ jaanvi-leetcode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaanvi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Jaanvi/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
+| [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
 | [0952-word-subsets](https://github.com/Jaanvi/leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Jaanvi/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jaanvi/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -201,6 +202,7 @@ jaanvi-leetcode questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jaanvi/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
 ## Simulation
 |  |
 | ------- |
@@ -214,6 +216,7 @@ jaanvi-leetcode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
 | [0506-relative-ranks](https://github.com/Jaanvi/leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/Jaanvi/leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Jaanvi/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -227,6 +230,7 @@ jaanvi-leetcode questions
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jaanvi/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
