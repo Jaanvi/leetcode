@@ -1,26 +1,27 @@
 class Solution {
 public:
-    void sortColors(vector<int>& nums) 
+    void sortColors(vector<int>& arr) 
     {
-        int size=nums.size();
-        map<int,int>m;
-        for(int i=0;i<size;i++)
+        int size=arr.size();
+        int end=size-1;
+        int start=0;
+        int left=0;
+        while(start<=end)
         {
-           m[nums[i]]++;
-        }
-        for(int i=0;i<size;i++)
-        {
-            if(i<m[0])
+            if(arr[start]<1)
             {
-                nums[i]=0;
+               swap(arr[start],arr[left]);
+               start++;
+               left++;
             }
-            else if(i>=m[0]  && i<m[1]+m[0])
+            else if(arr[start]>1)
             {
-                nums[i]=1;
+               swap(arr[start],arr[end]);
+               end--;
             }
             else
             {
-                nums[i]=2;
+                start++;
             }
         }
     }
