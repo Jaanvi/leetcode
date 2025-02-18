@@ -11,6 +11,7 @@ jaanvi-leetcode questions
 | [0049-group-anagrams](https://github.com/Jaanvi/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jaanvi/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/Jaanvi/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0506-relative-ranks](https://github.com/Jaanvi/leetcode/tree/master/0506-relative-ranks) |
@@ -185,6 +186,7 @@ jaanvi-leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Jaanvi/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
