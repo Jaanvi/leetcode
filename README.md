@@ -107,6 +107,7 @@ jaanvi-leetcode questions
 | [0952-word-subsets](https://github.com/Jaanvi/leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Jaanvi/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Jaanvi/leetcode/tree/master/1217-relative-sort-array) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jaanvi/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jaanvi/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Jaanvi/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -187,11 +188,13 @@ jaanvi-leetcode questions
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Jaanvi/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Jaanvi/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
@@ -252,6 +255,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jaanvi/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -274,10 +278,12 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Geometry
 |  |
 | ------- |
