@@ -179,6 +179,7 @@ jaanvi-leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Jaanvi/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -261,4 +262,12 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Jaanvi/leetcode/tree/master/1217-relative-sort-array) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
