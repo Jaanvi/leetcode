@@ -16,6 +16,7 @@ jaanvi-leetcode questions
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0506-relative-ranks](https://github.com/Jaanvi/leetcode/tree/master/0506-relative-ranks) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jaanvi/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Jaanvi/leetcode/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/Jaanvi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Jaanvi/leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -105,6 +106,7 @@ jaanvi-leetcode questions
 | [0049-group-anagrams](https://github.com/Jaanvi/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Jaanvi/leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Jaanvi/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Jaanvi/leetcode/tree/master/1217-relative-sort-array) |
@@ -178,6 +180,7 @@ jaanvi-leetcode questions
 | ------- |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Jaanvi/leetcode/tree/master/0190-reverse-bits) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/Jaanvi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -280,12 +283,14 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Geometry
