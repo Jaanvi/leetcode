@@ -12,7 +12,7 @@
 class Solution {
 public:
     TreeNode*prev=nullptr;
-    bool flag=true;
+    bool ans=true;
     void inorder(TreeNode* root)
     {
         if(root==nullptr)
@@ -20,7 +20,7 @@ public:
         inorder(root->left);
         //here if root value is less than previous node value than it is false
         if(prev!=nullptr && prev->val >= root->val){
-        flag=false;
+        ans=false;
         return;
         }
         prev=root;
@@ -28,7 +28,7 @@ public:
     }
     bool isValidBST(TreeNode* root) {
         inorder(root);
-        return flag;
+        return ans;
     }
 
 };
