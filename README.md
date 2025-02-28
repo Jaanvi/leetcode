@@ -170,6 +170,7 @@ jaanvi-leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Jaanvi/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Jaanvi/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -203,6 +204,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -300,6 +302,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -310,6 +313,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
