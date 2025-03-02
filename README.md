@@ -42,6 +42,7 @@ jaanvi-leetcode questions
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Jaanvi/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Jaanvi/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jaanvi/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jaanvi/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Jaanvi/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jaanvi/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jaanvi/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -128,6 +129,7 @@ jaanvi-leetcode questions
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jaanvi/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Jaanvi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jaanvi/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jaanvi/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Jaanvi/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jaanvi/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Jaanvi/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -139,6 +141,7 @@ jaanvi-leetcode questions
 | [0031-next-permutation](https://github.com/Jaanvi/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jaanvi/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
