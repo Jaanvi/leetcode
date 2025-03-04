@@ -215,6 +215,7 @@ jaanvi-leetcode questions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -319,6 +320,7 @@ jaanvi-leetcode questions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -333,6 +335,7 @@ jaanvi-leetcode questions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -353,5 +356,6 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
