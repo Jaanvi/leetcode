@@ -295,6 +295,7 @@ jaanvi-leetcode questions
 | [1477-product-of-the-last-k-numbers](https://github.com/Jaanvi/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jaanvi/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jaanvi/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Jaanvi/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jaanvi/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Jaanvi/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Jaanvi/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -364,4 +365,8 @@ jaanvi-leetcode questions
 | [0098-validate-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jaanvi/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Jaanvi/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
