@@ -52,6 +52,7 @@ jaanvi-leetcode questions
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jaanvi/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jaanvi/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Jaanvi/leetcode/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/Jaanvi/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -252,6 +253,7 @@ jaanvi-leetcode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaanvi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jaanvi/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Jaanvi/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Graph
 |  |
 | ------- |
