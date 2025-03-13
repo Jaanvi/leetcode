@@ -382,4 +382,8 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jaanvi/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Database
+|  |
+| ------- |
+| [1480-movie-rating](https://github.com/Jaanvi/leetcode/tree/master/1480-movie-rating) |
 <!---LeetCode Topics End-->
