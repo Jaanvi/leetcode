@@ -1,21 +1,20 @@
 class Solution {
 public:
-    vector<int>ans;
     int fib(int n) 
     {
-        if(ans.empty())
-        {
-           ans.resize(n+1,-1);
+        return dp(n);
+    }
+    unordered_map<int, int> cache;
+    
+    int dp(int i){
+        if(i < 2) return i;
+
+        if(cache.find(i) != cache.end()){
+            return cache[i];
         }
-        if(n<2)
-        {
-            return n;
+        else{
+            cache[i] = dp(i - 1) + dp(i - 2);
+            return cache[i];
         }
-        ans[n]= fib(n-1)+fib(n-2);
-        if(ans[n]==-1)
-        {
-            return ans[n];
-        }
-        return ans[n];
     }
 };
