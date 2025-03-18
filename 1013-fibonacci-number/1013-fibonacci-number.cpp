@@ -1,20 +1,21 @@
 class Solution {
 public:
+    vector<int>ans;
     int fib(int n) 
     {
-        int slast=0;
-        int last=1;
+        if(ans.empty())
+        {
+           ans.resize(n+1,-1);
+        }
         if(n<2)
         {
             return n;
         }
-         
-        for(int i=2;i<=n;i++)
+        ans[n]= fib(n-1)+fib(n-2);
+        if(ans[n]==-1)
         {
-           int curr=slast+last;
-           slast=last;
-           last=curr;
+            return ans[n];
         }
-        return last;
+        return ans[n];
     }
 };
