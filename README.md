@@ -16,6 +16,7 @@ jaanvi-leetcode questions
 | [0162-find-peak-element](https://github.com/Jaanvi/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0506-relative-ranks](https://github.com/Jaanvi/leetcode/tree/master/0506-relative-ranks) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jaanvi/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/Jaanvi/leetcode/tree/master/0740-delete-and-earn) |
@@ -64,6 +65,7 @@ jaanvi-leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jaanvi/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/Jaanvi/leetcode/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -272,6 +274,7 @@ jaanvi-leetcode questions
 | ------- |
 | [0162-find-peak-element](https://github.com/Jaanvi/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jaanvi/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Jaanvi/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Jaanvi/leetcode/tree/master/2690-house-robber-iv) |
