@@ -58,6 +58,7 @@ jaanvi-leetcode questions
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jaanvi/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jaanvi/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jaanvi/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jaanvi/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jaanvi/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Jaanvi/leetcode/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Jaanvi/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -223,6 +224,7 @@ jaanvi-leetcode questions
 | [2509-minimize-xor](https://github.com/Jaanvi/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Jaanvi/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Jaanvi/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jaanvi/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Jaanvi/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
@@ -272,6 +274,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Jaanvi/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jaanvi/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -298,6 +301,7 @@ jaanvi-leetcode questions
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Jaanvi/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jaanvi/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
