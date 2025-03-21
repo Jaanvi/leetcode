@@ -39,6 +39,7 @@ jaanvi-leetcode questions
 | [1927-maximum-ascending-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Jaanvi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Jaanvi/leetcode/tree/master/2145-grid-game) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jaanvi/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jaanvi/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Jaanvi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jaanvi/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -96,6 +97,7 @@ jaanvi-leetcode questions
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jaanvi/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Jaanvi/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Jaanvi/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jaanvi/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Jaanvi/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Jaanvi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jaanvi/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -154,6 +156,7 @@ jaanvi-leetcode questions
 | [1502-construct-k-palindrome-strings](https://github.com/Jaanvi/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jaanvi/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Jaanvi/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jaanvi/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jaanvi/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jaanvi/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jaanvi/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -300,12 +303,14 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jaanvi/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Jaanvi/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jaanvi/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Jaanvi/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jaanvi/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Linked List
 |  |
 | ------- |
