@@ -33,6 +33,7 @@ jaanvi-leetcode questions
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Jaanvi/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jaanvi/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jaanvi/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Jaanvi/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Jaanvi/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Jaanvi/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Jaanvi/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -162,6 +163,7 @@ jaanvi-leetcode questions
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jaanvi/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jaanvi/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Jaanvi/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jaanvi/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Jaanvi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jaanvi/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -183,6 +185,7 @@ jaanvi-leetcode questions
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Jaanvi/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Jaanvi/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jaanvi/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Jaanvi/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -198,6 +201,7 @@ jaanvi-leetcode questions
 | [1014-k-closest-points-to-origin](https://github.com/Jaanvi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/Jaanvi/leetcode/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Jaanvi/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Jaanvi/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jaanvi/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jaanvi/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Jaanvi/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
