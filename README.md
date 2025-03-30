@@ -95,6 +95,7 @@ jaanvi-leetcode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaanvi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Jaanvi/leetcode/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/Jaanvi/leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Jaanvi/leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jaanvi/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -158,6 +159,7 @@ jaanvi-leetcode questions
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
 | [0740-delete-and-earn](https://github.com/Jaanvi/leetcode/tree/master/0740-delete-and-earn) |
+| [0768-partition-labels](https://github.com/Jaanvi/leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Jaanvi/leetcode/tree/master/0952-word-subsets) |
@@ -188,6 +190,7 @@ jaanvi-leetcode questions
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/Jaanvi/leetcode/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jaanvi/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Jaanvi/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jaanvi/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -216,6 +219,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jaanvi/leetcode/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/Jaanvi/leetcode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jaanvi/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Jaanvi/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jaanvi/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
