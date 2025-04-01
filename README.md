@@ -194,6 +194,7 @@ jaanvi-leetcode questions
 | [0768-partition-labels](https://github.com/Jaanvi/leetcode/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jaanvi/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Jaanvi/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Jaanvi/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jaanvi/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Jaanvi/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Jaanvi/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -363,6 +364,7 @@ jaanvi-leetcode questions
 | [0234-palindrome-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Jaanvi/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
