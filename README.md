@@ -29,6 +29,7 @@ jaanvi-leetcode questions
 | [1063-best-sightseeing-pair](https://github.com/Jaanvi/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/Jaanvi/leetcode/tree/master/1127-last-stone-weight) |
 | [1217-relative-sort-array](https://github.com/Jaanvi/leetcode/tree/master/1217-relative-sort-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Jaanvi/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Jaanvi/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jaanvi/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Jaanvi/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -170,6 +171,7 @@ jaanvi-leetcode questions
 | [1160-letter-tile-possibilities](https://github.com/Jaanvi/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Jaanvi/leetcode/tree/master/1217-relative-sort-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jaanvi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Jaanvi/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jaanvi/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jaanvi/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jaanvi/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
