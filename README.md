@@ -377,6 +377,7 @@ jaanvi-leetcode questions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jaanvi/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jaanvi/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0206-reverse-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
@@ -392,6 +393,7 @@ jaanvi-leetcode questions
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Jaanvi/leetcode/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
