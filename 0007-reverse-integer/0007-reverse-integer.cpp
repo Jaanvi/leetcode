@@ -32,10 +32,10 @@ public:
          }
          else
          {
-           if((ans>(-pow(2,31))) && ans<(pow(2,31)-1))
-           {
+        //    if((ans>(-pow(2,31))) && ans<(pow(2,31)-1))
+        //    {
             ans=ans*10+digit;
-           }
+        //    }
          }
          count++;
          temp=temp/10;
