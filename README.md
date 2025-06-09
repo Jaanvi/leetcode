@@ -411,6 +411,7 @@ jaanvi-leetcode questions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Jaanvi/leetcode/tree/master/0007-reverse-integer) |
 | [1013-fibonacci-number](https://github.com/Jaanvi/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Jaanvi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jaanvi/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
