@@ -15,6 +15,7 @@ jaanvi-leetcode questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/Jaanvi/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Jaanvi/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0506-relative-ranks](https://github.com/Jaanvi/leetcode/tree/master/0506-relative-ranks) |
@@ -412,6 +413,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Jaanvi/leetcode/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/Jaanvi/leetcode/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/Jaanvi/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Jaanvi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jaanvi/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -509,6 +511,7 @@ jaanvi-leetcode questions
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Jaanvi/leetcode/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jaanvi/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Jaanvi/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Database
@@ -531,4 +534,8 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Jaanvi/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jaanvi/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
