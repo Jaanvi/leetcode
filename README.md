@@ -19,6 +19,7 @@ jaanvi-leetcode questions
 | [0189-rotate-array](https://github.com/Jaanvi/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Jaanvi/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jaanvi/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0506-relative-ranks](https://github.com/Jaanvi/leetcode/tree/master/0506-relative-ranks) |
@@ -167,6 +168,7 @@ jaanvi-leetcode questions
 | [0073-set-matrix-zeroes](https://github.com/Jaanvi/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
 | [0740-delete-and-earn](https://github.com/Jaanvi/leetcode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/Jaanvi/leetcode/tree/master/0768-partition-labels) |
@@ -220,6 +222,7 @@ jaanvi-leetcode questions
 | [0056-merge-intervals](https://github.com/Jaanvi/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Jaanvi/leetcode/tree/master/0506-relative-ranks) |
 | [1014-k-closest-points-to-origin](https://github.com/Jaanvi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/Jaanvi/leetcode/tree/master/1217-relative-sort-array) |
@@ -270,6 +273,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Jaanvi/leetcode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jaanvi/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Jaanvi/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Jaanvi/leetcode/tree/master/2509-minimize-xor) |
@@ -346,6 +350,7 @@ jaanvi-leetcode questions
 | ------- |
 | [0162-find-peak-element](https://github.com/Jaanvi/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jaanvi/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Jaanvi/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -421,6 +426,7 @@ jaanvi-leetcode questions
 | [0007-reverse-integer](https://github.com/Jaanvi/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Jaanvi/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Jaanvi/leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Jaanvi/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Jaanvi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jaanvi/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
