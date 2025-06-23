@@ -1,43 +1,26 @@
 class Solution {
 public:
-    bool check(vector<int>& nums) 
+    bool check(vector<int>& arr) 
     {
-        int size=nums.size();
-         if (size == 1) 
-         {
-            return true;
-         }
+        int  size=arr.size();
         int pivot=-1;
-        for(int i=1;i<size;i++)
+        int count=0;
+        for(int i=0;i<size-1;i++)
         {
-            if(nums[i]<nums[i-1])
+            if(arr[i]>arr[i+1])
             {
-                pivot=i;
-                break;
+               pivot=i+1;
+               count++;
             }
         }
-        if(pivot==-1)
+        if(count==0)
         {
             return true;
         }
-        for(int i=0;i<pivot-1;i++)
+        if(count==1 && arr[0]>=arr[size-1])
         {
-            if( nums[i]>nums[i+1])
-            {
-                return false;
-            }
+            return true;
         }
-        for(int i=pivot;i<size-1;i++)
-        {
-            if(nums[i]>nums[i+1])
-            {
-                return false;
-            }
-        }
-        if (nums[size - 1] > nums[0]) 
-        {
-            return false;
-        }  
-        return true;
+        return false;
     }
 };
