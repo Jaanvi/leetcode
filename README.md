@@ -14,6 +14,7 @@ jaanvi-leetcode questions
 | [0073-set-matrix-zeroes](https://github.com/Jaanvi/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0136-single-number](https://github.com/Jaanvi/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Jaanvi/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jaanvi/leetcode/tree/master/0189-rotate-array) |
@@ -273,6 +274,7 @@ jaanvi-leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Jaanvi/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Jaanvi/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jaanvi/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
