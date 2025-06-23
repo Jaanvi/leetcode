@@ -2,17 +2,26 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) 
     {
-        map<int, int> m; // Map to store occurrences of each number
-        int k = 0; // Count of unique elements
-        
-        for (int i = 0; i < nums.size(); i++) {
-            // Check if the element is not already in the map
-            if (m.find(nums[i]) == m.end()) {
-                nums[k++] = nums[i]; // Place the unique element in the array
-                m[nums[i]] = 1; // Mark it as seen in the map
+        int size=nums.size();
+        if(size<=1)
+        {
+            return size;
+        }
+        vector<int>ans;
+        ans.push_back(nums[0]);
+        for(int i=1;i<size;i++)
+        {
+            if(nums[i]!=nums[i-1])
+            {
+                ans.push_back(nums[i]);
             }
         }
+        int k=ans.size();
+        for(int i=0;i<k;i++)
+        {
+            nums[i]=ans[i];
+        }
+        return k;
         
-        return k; // Return the count of unique elements
     }
 };
