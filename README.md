@@ -11,6 +11,7 @@ jaanvi-leetcode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaanvi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Jaanvi/leetcode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Jaanvi/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Jaanvi/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jaanvi/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Jaanvi/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ jaanvi-leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Jaanvi/leetcode/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0392-is-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jaanvi/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -293,6 +295,7 @@ jaanvi-leetcode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Jaanvi/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Jaanvi/leetcode/tree/master/0190-reverse-bits) |
