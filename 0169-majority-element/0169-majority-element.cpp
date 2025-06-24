@@ -8,14 +8,13 @@ public:
         {
             m[nums[i]]++;
         }
-        int ans;
         for(auto it=m.begin();it!=m.end();it++)
         {
-            if(it->second>(size/2))
+            if(it->second>size/2)
             {
-                ans=it->first;
+                return it->first;
             }
         }
-        return ans;
+        return -1;
     }
 };
