@@ -25,6 +25,7 @@ jaanvi-leetcode questions
 | [0189-rotate-array](https://github.com/Jaanvi/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Jaanvi/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Jaanvi/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jaanvi/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -182,6 +183,7 @@ jaanvi-leetcode questions
 | [0073-set-matrix-zeroes](https://github.com/Jaanvi/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Jaanvi/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaanvi/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -238,6 +240,7 @@ jaanvi-leetcode questions
 | [0056-merge-intervals](https://github.com/Jaanvi/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Jaanvi/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Jaanvi/leetcode/tree/master/0506-relative-ranks) |
 | [1014-k-closest-points-to-origin](https://github.com/Jaanvi/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -266,6 +269,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Jaanvi/leetcode/tree/master/0229-majority-element-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Jaanvi/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/Jaanvi/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jaanvi/leetcode/tree/master/1502-construct-k-palindrome-strings) |
