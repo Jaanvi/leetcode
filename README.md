@@ -8,6 +8,7 @@ jaanvi-leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/Jaanvi/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jaanvi/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Jaanvi/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaanvi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Jaanvi/leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Jaanvi/leetcode/tree/master/0048-rotate-image) |
@@ -216,6 +217,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jaanvi/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Jaanvi/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jaanvi/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaanvi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Jaanvi/leetcode/tree/master/0031-next-permutation) |
@@ -236,6 +238,7 @@ jaanvi-leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jaanvi/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Jaanvi/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jaanvi/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
