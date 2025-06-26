@@ -5,7 +5,7 @@ public:
         sort(intervals.begin(),intervals.end());
         int size=intervals.size();
         int left=0;
-        int right=1;
+        int right=0;
         vector<vector<int>>ans;
         while(right<=size)
         {
