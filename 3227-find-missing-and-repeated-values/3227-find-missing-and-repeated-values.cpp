@@ -1,26 +1,29 @@
 class Solution {
 public:
-    vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int size = n * n;
-        vector<int> count(size + 1, 0);
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                count[grid[i][j]]++;
+    vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) 
+    {
+        int sr=grid.size();
+        int sc=grid[0].size();
+        map<int,int>m;
+        for(int i=0;i<sr;i++)
+        {
+            for(int j=0;j<sc;j++)
+            {
+                m[grid[i][j]]++;
             }
         }
-
-        int a = -1, b = -1;
-
-        for (int num = 1; num <= size; num++) {
-            if (count[num] == 2) {
-                a = num;
-            } else if (count[num] == 0) {
-                b = num;
+        int rep=-1,mis=-1;
+        for(int i=0;i<=sr*sc;i++)
+        {
+            if(m[i]==2)
+            {
+               rep=i;
+            }
+            if(m[i]==0)
+            {
+               mis=i;
             }
         }
-
-        return {a, b};
+        return {rep,mis};
     }
 };
