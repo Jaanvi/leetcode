@@ -11,6 +11,7 @@ jaanvi-leetcode questions
 | [0015-3sum](https://github.com/Jaanvi/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaanvi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Jaanvi/leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Jaanvi/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Jaanvi/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Jaanvi/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Jaanvi/leetcode/tree/master/0053-maximum-subarray) |
@@ -378,6 +379,7 @@ jaanvi-leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jaanvi/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Jaanvi/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
