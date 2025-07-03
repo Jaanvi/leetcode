@@ -37,6 +37,7 @@ jaanvi-leetcode questions
 | [0300-longest-increasing-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Jaanvi/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Jaanvi/leetcode/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Jaanvi/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaanvi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Jaanvi/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jaanvi/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -390,6 +391,7 @@ jaanvi-leetcode questions
 | [0209-minimum-size-subarray-sum](https://github.com/Jaanvi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Jaanvi/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Jaanvi/leetcode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jaanvi/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Jaanvi/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
