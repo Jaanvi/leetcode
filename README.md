@@ -126,6 +126,7 @@ jaanvi-leetcode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaanvi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Jaanvi/leetcode/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Jaanvi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/Jaanvi/leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Jaanvi/leetcode/tree/master/0952-word-subsets) |
@@ -231,6 +232,7 @@ jaanvi-leetcode questions
 | [0031-next-permutation](https://github.com/Jaanvi/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Jaanvi/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jaanvi/leetcode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Jaanvi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Jaanvi/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Jaanvi/leetcode/tree/master/0283-move-zeroes) |
