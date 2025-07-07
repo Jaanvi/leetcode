@@ -130,6 +130,7 @@ jaanvi-leetcode questions
 | [0049-group-anagrams](https://github.com/Jaanvi/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Jaanvi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Jaanvi/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Jaanvi/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/Jaanvi/leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Jaanvi/leetcode/tree/master/0812-rotate-string) |
@@ -202,6 +203,7 @@ jaanvi-leetcode questions
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Jaanvi/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Jaanvi/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Jaanvi/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/Jaanvi/leetcode/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaanvi/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -264,6 +266,7 @@ jaanvi-leetcode questions
 | [0088-merge-sorted-array](https://github.com/Jaanvi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Jaanvi/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Jaanvi/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Jaanvi/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jaanvi/leetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Jaanvi/leetcode/tree/master/0506-relative-ranks) |
 | [1014-k-closest-points-to-origin](https://github.com/Jaanvi/leetcode/tree/master/1014-k-closest-points-to-origin) |
