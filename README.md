@@ -143,6 +143,7 @@ jaanvi-leetcode questions
 | [1894-merge-strings-alternately](https://github.com/Jaanvi/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jaanvi/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Jaanvi/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/Jaanvi/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/Jaanvi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jaanvi/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Jaanvi/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -275,6 +276,7 @@ jaanvi-leetcode questions
 | [0011-container-with-most-water](https://github.com/Jaanvi/leetcode/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/Jaanvi/leetcode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jaanvi/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/Jaanvi/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Jaanvi/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jaanvi/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Jaanvi/leetcode/tree/master/2509-minimize-xor) |
@@ -480,6 +482,7 @@ jaanvi-leetcode questions
 | [1477-product-of-the-last-k-numbers](https://github.com/Jaanvi/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jaanvi/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jaanvi/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2032-largest-odd-number-in-string](https://github.com/Jaanvi/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jaanvi/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jaanvi/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jaanvi/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
