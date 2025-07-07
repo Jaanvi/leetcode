@@ -132,6 +132,7 @@ jaanvi-leetcode questions
 | [0205-isomorphic-strings](https://github.com/Jaanvi/leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Jaanvi/leetcode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/Jaanvi/leetcode/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/Jaanvi/leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Jaanvi/leetcode/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Jaanvi/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -183,6 +184,7 @@ jaanvi-leetcode questions
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Jaanvi/leetcode/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Jaanvi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jaanvi/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
