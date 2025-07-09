@@ -126,6 +126,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaanvi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Jaanvi/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jaanvi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Jaanvi/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Jaanvi/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -199,6 +200,7 @@ jaanvi-leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/Jaanvi/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaanvi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Jaanvi/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Jaanvi/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Jaanvi/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaanvi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -489,6 +491,7 @@ jaanvi-leetcode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Jaanvi/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Jaanvi/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Jaanvi/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Jaanvi/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Jaanvi/leetcode/tree/master/0204-count-primes) |
