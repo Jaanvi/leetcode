@@ -8,35 +8,25 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+class Solution 
+{
 public:
-    int len(ListNode* head)
-    {
-        int count=0;
-        while(head!=NULL)
-        {
-            count++;
-            head=head->next;
-        }
-        return count;
-    }
     ListNode* deleteMiddle(ListNode* head) 
     {
-        ListNode* curr=head;
-        ListNode* prev=NULL;
         if(head==NULL || head->next==NULL)
         {
             return NULL;
         }
-        int mid=len(head)/2;
-        int st=0;
-        while(st<mid)
+        ListNode* fast=head;
+        ListNode* slow=head;
+        ListNode* prev=NULL;
+        while(fast!=NULL && fast->next!=NULL)
         {
-            prev=curr;
-            curr=curr->next;
-            st++;
+            fast=fast->next->next;
+            prev=slow;
+            slow=slow->next;
         }
-        prev->next=curr->next;
+        prev->next=slow->next;
         return head;
     }
 };
