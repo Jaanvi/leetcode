@@ -1,42 +1,38 @@
 class Solution {
 public:
+    int recursion(string s,int i,int sign,long long ans)
+    {
+       if(i>=s.length() || !isdigit(s[i]))
+       {
+          return (int)(sign*ans);
+       }
+
+       ans=ans*10+(s[i]-'0');
+       i++;
+       if (sign == 1 && ans > INT_MAX) return INT_MAX;
+       if (sign == -1 && -ans < INT_MIN) return INT_MIN;
+
+       return recursion(s,i,sign,ans);
+    }
     int myAtoi(string s) 
-    { 
-      int len=s.length();
+    {
+        int len=s.length();
         int i=0;
         int sign=1;
-        while(i<len && s[i]==' ')
+        while(s[i]==' ')
         {
-            i++;
-        }
-        if(i<len && s[i]=='-')
-        {
-           sign=-1;
            i++;
         }
-        else if(i<len && s[i]=='+')
+        if(s[i]=='-')
         {
-            sign=1;
+            sign=-1;
+        }
+        if(s[i]=='+' || s[i]=='-')
+        {
             i++;
         }
-        while(i<len && s[i]=='0')
-        {
-            i++;
-        }
-        long long num=0;
-        while(i<len && s[i]>='0' && s[i]<='9')
-        {
-            num=num*10+(s[i]-'0');
-            if(sign==1 && num>INT_MAX) 
-            {
-                return INT_MAX;
-            }
-            if(sign==-1 && num>INT_MAX) 
-            {
-                return INT_MIN;
-            }
-            i++;
-        } 
-        return (int)(num*sign); 
+        long long ans=0;
+        int rec=recursion(s,i,sign,ans);
+        return rec;
     }
 };
