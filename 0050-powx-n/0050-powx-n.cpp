@@ -1,38 +1,31 @@
 class Solution {
 public:
-    double recpow(double x,long long n,double ans)
+    double recursion(double x,double ans,long long n)
     {
-        if(n==0)
-        {
+         if(n==0)
+         {
             return ans;
-        }
-        if(n%2==0)
-        {
-            x=x*x;
-            n=n/2;
-            return recpow(x,n,ans);
-        }
-        else
-        {
-            ans=ans*x;
-            n=n-1;
-            return recpow(x,n,ans);
-        }
+         }
+         if(n%2==0)
+         {
+            return recursion(x*x,ans,n/2);
+         }
+         else
+         {
+            return recursion(x,ans*x,n-1);
+         }
+
     }
     double myPow(double x, int n) 
     {
-        if(n==0)
-        {
-            return 1;
-        }
         long long N=n;
-        if (N < 0)
-        {
-            x = 1 / x;
-            N = -N;
-        }
         double ans=1.0;
-        double res= recpow( x, N, ans);
+        if(n<0)
+        {
+            N=-N;
+            x=1/x;
+        }
+        double res=recursion(x,ans,N);
         return res;
     }
 };
