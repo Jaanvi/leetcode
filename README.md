@@ -489,6 +489,7 @@ jaanvi-leetcode questions
 | [0206-reverse-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jaanvi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Jaanvi/leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Jaanvi/leetcode/tree/master/2050-count-good-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -519,6 +520,7 @@ jaanvi-leetcode questions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jaanvi/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jaanvi/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Jaanvi/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Jaanvi/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jaanvi/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jaanvi/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jaanvi/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
