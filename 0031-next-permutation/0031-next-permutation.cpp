@@ -3,33 +3,36 @@ public:
     void nextPermutation(vector<int>& nums) 
     {
         int size=nums.size();
-        int pivot=0;
+        int pos=-1;
         for(int i=size-1;i>0;i--)
         {
             if(nums[i]>nums[i-1])
             {
-                pivot=i;
+                pos=i-1;
                 break;
             }
         }
-          
-        if (pivot == 0) {
-            reverse(nums.begin(), nums.end());
-            return;
-        }  
 
-        int mini=INT_MAX;
-        int minindex=pivot;
-        for(int i=pivot;i<size;i++)
+        if(pos==-1)
         {
-           if(nums[i]>nums[pivot-1] && mini>=nums[i])
-           {
-                minindex=i;
-                mini=nums[i];
-           }
+            reverse(nums.begin(),nums.end());
+            return;
         }
-        swap(nums[pivot-1],nums[minindex]);
-        sort(nums.begin()+pivot,nums.end());
-         
+        else
+        {
+        int maxi=INT_MAX;
+        int index=0;
+        for(int j=size-1;j>pos;j--)
+        {
+            if(nums[pos]<nums[j] && nums[j]<maxi)
+            {
+               index=j; 
+               maxi=nums[j]; 
+            }
+        }
+         swap(nums[pos],nums[index]);
+         sort(nums.begin()+pos+1,nums.end());
+        }
+    
     }
 };
